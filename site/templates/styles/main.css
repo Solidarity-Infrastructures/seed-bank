@@ -22,7 +22,23 @@
 body {
 	padding: 5%;
 	max-width: 1600px; 
-	margin: 0 auto; 
+	margin: 0 auto;
+	background: linear-gradient(
+		180deg,
+		hsl(0, 100%, 95%),
+		hsl(30, 100%, 95%),
+		hsl(60, 100%, 95%),
+		hsl(90, 100%, 95%),
+		hsl(120, 100%, 95%),
+		hsl(150, 100%, 95%),
+		hsl(180, 100%, 95%),
+		hsl(210, 100%, 95%),
+		hsl(240, 100%, 95%),
+		hsl(270, 100%, 95%),
+		hsl(300, 100%, 95%),
+		hsl(330, 100%, 95%),
+		hsl(360, 100%, 95%)
+	);
 }
 
 body, td, input[type=text], textarea {
